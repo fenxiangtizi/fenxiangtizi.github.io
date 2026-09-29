@@ -1,4 +1,4 @@
-# 分享梯子 - 9月22日21.8M/S|免费Shadowrocket节点/Clash节点/V2ray节点/Singbox节点/SSR节点节点推荐，V2rayC梯子购买推荐  更新时间 2026-09-22 10:51:48
+# 分享梯子 - 9月29日20.5M/S|免费Shadowrocket节点/V2ray节点/Singbox节点/Clash节点/SSR节点节点推荐，V2rayC梯子购买推荐  更新时间 2026-09-29 10:29:18
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://fenxiangtizi.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://fenxiangtizi.github.io/uploads/2026/09/0-20260922.yaml
-- https://fenxiangtizi.github.io/uploads/2026/09/1-20260922.yaml
-- https://fenxiangtizi.github.io/uploads/2026/09/2-20260922.yaml
-- https://fenxiangtizi.github.io/uploads/2026/09/3-20260922.yaml
-- https://fenxiangtizi.github.io/uploads/2026/09/4-20260922.yaml
+- https://fenxiangtizi.github.io/uploads/2026/09/0-20260929.yaml
+- https://fenxiangtizi.github.io/uploads/2026/09/1-20260929.yaml
+- https://fenxiangtizi.github.io/uploads/2026/09/2-20260929.yaml
+- https://fenxiangtizi.github.io/uploads/2026/09/3-20260929.yaml
+- https://fenxiangtizi.github.io/uploads/2026/09/4-20260929.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://fenxiangtizi.github.io/uploads/2026/09/0-20260922.txt
-- https://fenxiangtizi.github.io/uploads/2026/09/1-20260922.txt
-- https://fenxiangtizi.github.io/uploads/2026/09/2-20260922.txt
-- https://fenxiangtizi.github.io/uploads/2026/09/3-20260922.txt
-- https://fenxiangtizi.github.io/uploads/2026/09/4-20260922.txt
+- https://fenxiangtizi.github.io/uploads/2026/09/0-20260929.txt
+- https://fenxiangtizi.github.io/uploads/2026/09/1-20260929.txt
+- https://fenxiangtizi.github.io/uploads/2026/09/2-20260929.txt
+- https://fenxiangtizi.github.io/uploads/2026/09/3-20260929.txt
+- https://fenxiangtizi.github.io/uploads/2026/09/4-20260929.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://fenxiangtizi.github.io/uploads/2026/09/20260922.json
+- https://fenxiangtizi.github.io/uploads/2026/09/20260929.json
 
 ## 更多Clash节点订阅 ：
 
